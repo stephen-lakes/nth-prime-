@@ -1,1 +1,1 @@
-# nth-prime-
+# nth-prime
