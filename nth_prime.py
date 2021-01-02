@@ -19,5 +19,5 @@ def nth_prime(n:int):
 
 
 
-# print the 100001th prime number
+# returns the 100001th prime number
 print(nth_prime(100001))
